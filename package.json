@@ -1,0 +1,17 @@
+{
+  "name": "portbot-project",
+  "version": "1.0.0",
+  "description": "Slackbot that check portability",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbot": "^0.0.2",
+    "slackbots": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Matt Jensen and Nicole Frisbee",
+  "license": "MIT"
+}
