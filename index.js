@@ -1,5 +1,7 @@
 const Slackbot = require('slackbots');
 const axios = require('axios');
+const env = require('dotenv');
+env.load();
 
 const bot = new Slackbot({
     token: 'xoxb-580618039601-590779891974-vji2kzD7ErMYycc2WeAdJSqM',
