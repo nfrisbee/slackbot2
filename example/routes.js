@@ -1,8 +1,7 @@
 function handleProvCheck(req, res) {
-    payload = req.body;
+    payload = req.body.number;
 
-    // get the number from the payload
-
+    // get the numbert from the payload
     // validate
 
     // send to fr
